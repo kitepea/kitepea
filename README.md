@@ -6,4 +6,4 @@
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kitepea&icon=0&color=0)](https://visitcount.itsvg.in)
+[One Weird Trick to Learn Git Faster](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
