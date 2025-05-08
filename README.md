@@ -6,4 +6,4 @@
 </p>
 
 ---
-[One Weird Trick to Learn Git Faster](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[🚀 One Weird Trick to Learn Git Faster](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
