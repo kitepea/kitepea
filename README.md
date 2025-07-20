@@ -5,5 +5,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitepea&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=css,tsql,html" alt="GitHub Top Languages" height="180px"/>
 </p>
 
----
-[🚀 One Weird Trick to Learn Git Faster](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) -->
+--- -->
+[🚀 One Weird Trick to Learn Git Faster](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
