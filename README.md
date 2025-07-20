@@ -1,4 +1,4 @@
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats-sable-theta.vercel.app/?user=kitepea&theme=tokyonight&hide_border=false" alt="GitHub Readme Streak Stats" height="180px"/>
@@ -6,4 +6,4 @@
 </p>
 
 ---
-[🚀 One Weird Trick to Learn Git Faster](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[🚀 One Weird Trick to Learn Git Faster](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) -->
